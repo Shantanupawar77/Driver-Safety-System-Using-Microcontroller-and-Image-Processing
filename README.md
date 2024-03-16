@@ -1,5 +1,4 @@
 # Driver Safety System using Microcontroller and Image Processing
-
 The Driver Safety System is designed to prevent accidents caused by driver fatigue and intoxication. Using microcontroller technology and image processing algorithms, the system detects drowsiness and intoxication of the driver, controls vehicle speed, and ensures road safety.
 
 ## Features
